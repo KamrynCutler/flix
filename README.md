@@ -6,7 +6,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ## Flix Part 2
 
-## Demo located in GitHub Repository
+## Demo: https://github.com/KamrynCutler/flix/blob/main/flix.gif
 
 ### User Stories
 
